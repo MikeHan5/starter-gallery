@@ -1,3 +1,5 @@
 1) Started Changelog
-2) Changed the file format to be CodeIgniter app Sept-22(mh)
+2) Changed the file format to be CodeIgniter app Sept-22(MH)
 3) Added template and changed controllers to use it
+4) Created new model class "Images" Sept-22(MH)
+5) Updated Gallery/Welcome views and controllers to use CodeIgniter's HTML table class Sept-22(MH)
